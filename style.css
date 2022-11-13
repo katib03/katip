@@ -1,4 +1,10 @@
 body{
-background-color : green;
-color: white;
+  background-color : aqua;
+  color: white;
+}
+
+img {
+  width: 90%;
+  height: 30%;
+  text-align: center;
 }
